@@ -1,0 +1,1 @@
+runas /user:sanek "msg * /time:2000 /v How are you? ;)"
